@@ -1,0 +1,11 @@
+@import "src/styles/variables.scss";
+
+.content {
+    // @media #{$desktop} {
+    //     display: flex;
+    //     flex: 1;
+    // }
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 150px 30px 50px 30px;
+}

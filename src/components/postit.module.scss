@@ -1,0 +1,37 @@
+
+.post {
+    padding: 20px 0px;
+    h2 {
+        margin: 0;
+        padding: 0;
+    }
+    h2 a {
+        color: #444;
+        text-decoration: none;
+        &:hover {
+            color: #000;
+        }
+    }
+    time {
+        font-style: italic;
+        font-size: .9em;
+    }
+}
+
+.category {
+    text-align: center;
+    padding: 0px 3px;
+    a {
+        background: #eee;
+        padding: 3px 5px;
+        font-size: .8em;
+        border-radius: 5px;
+        color: #888;
+        transition: .2s ease-in-out;
+
+        &:hover {
+            color: #555;
+            text-decoration: none;
+        }
+    }
+}

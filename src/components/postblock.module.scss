@@ -1,0 +1,14 @@
+.postblock {
+    display: flex;
+    flex-wrap: wrap;
+    a {
+        text-decoration: none;
+        transition: all 0.3s ease;
+        &:hover {
+            color: #000;
+        }
+        span {
+            color: #000;
+        }
+    }
+}

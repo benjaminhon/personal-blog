@@ -1,0 +1,189 @@
+@import "src/styles/variables.scss";
+
+html , body {
+    padding: 0;
+    margin: 0;
+    line-height: 1.8em;
+}
+
+body, input, textarea {
+    font-family: 'Fira Sans', sans-serif;
+    color: #222;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    font-size: 1.8em;
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3em;
+    color: #444;
+}
+
+h2 {
+    font-size: 1.4em;
+    font-weight: lighter;
+    color: #444;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: lighter;
+    color: #444;
+}
+
+time {
+    color: $light-grey;
+}
+
+header {
+    text-align: center;
+    padding: 0 0 0 0;
+}
+
+img {
+    max-width: 70%;
+}
+
+ol li + li {
+    margin: 20px 0 0 0;
+}
+
+footer {
+    color: $light-grey;
+    text-align: center;
+    padding: 20px 0;
+    font-size: .8em;
+}
+
+hr {
+     border: 0;
+     border-top: 1px solid #eee;
+}
+
+a {
+    text-decoration: none;
+    color: #007eff;
+}
+
+/**
+ * Block quote
+ */
+blockquote {
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  
+  /*Font*/
+  font-family: Courier, monospace;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.4;
+  color: #666;
+  text-align: justify;
+  
+  /*Borders - (Optional)*/
+  border-left: 15px solid #c76c0c;
+  border-right: 2px solid #c76c0c;
+  
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+
+blockquote::before {
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: $light-grey;
+  
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top:5px;
+}
+
+blockquote::after {
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a {
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote a:hover {
+ color: #666;
+}
+
+blockquote em {
+  font-style: italic;
+}
+
+/**
+ * Table
+ */
+
+table {
+  font-size: 14px;
+  border-collapse:collapse;
+  padding: 0;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+table tr {
+  border-top:1px solid #ccc;
+  background-color:#fff;
+  margin:0;
+  padding:0;
+}
+
+table th {
+  background-color:#f8f8f8;
+}
+
+table tr th[align="center"], table tr td[align="center"] {
+  text-align:center;
+}
+
+table tr th, table tr td {
+  border:1px solid #ccc;
+  text-align:left;
+  margin:0;
+  padding:6px 13px;
+}
+
+code {
+  font-size: 12px;
+}
+
+/**
+ * Footnotes
+ */
+
+ .footnotes {
+  ol {
+    li {
+      margin: 0 0 0 0;
+      p {
+        display: inline-block;
+        margin: 0 0 0 0;
+      }
+      a {
+        
+      }
+    }
+  }
+ }
