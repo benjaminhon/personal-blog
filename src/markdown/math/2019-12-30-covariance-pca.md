@@ -7,7 +7,7 @@ use_math: true
 
 # Covariance and Variance
 
-The covariance between 2 variables is the **mean of the product** minus the **product of the mean**
+The covariance between 2 variables is as as follows
 
 <div>
 $$
