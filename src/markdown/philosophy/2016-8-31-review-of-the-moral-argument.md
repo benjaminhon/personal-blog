@@ -48,9 +48,16 @@ Naturalism is the idea or belief that only natural (as opposed to supernatural o
 >
 > Sam Harris, Free Will
 
-Naturalists argue that because our sense of morality is a product of evolution, it is illusory. However, this argument clearly commits the **genetic fallacy**. Notice the absurdity by substituting 'sense of morality' for 'sense of sight'.
+Naturalists argue that because our **sense of morality** is a product of evolution, it is illusory. However, this argument clearly commits the **genetic fallacy**. Notice the absurdity by substituting 'sense of morality' for 'sense of sight'. It is absurd to say that because our **sense of sight** is a product of evolution, thus it is illusory and the things we observe is not real!
+
+Thus the theist may argue that though our **sense of morality** may have been a product of evolution, it allows us to navigate the spiritual world, just as our eyes navigate the physical world.
 
 ## Is Naturalism Self Defeating?
+--------------------------------------------------------------------------------
+
+Naturalism itself also looks to be self defeating. For how can our cognitive faculties, being formed by a process of random mutations and natural selection, be relied on to make metaphysically true statements such as "only natural laws and forces operate in the world"? At least the creationist believes that his God given brain is functioning properly, but the naturalist cannot know for sure.
+
+## How to Live as a Naturalist?
 --------------------------------------------------------------------------------
 
 The naturalist should realise that whenever someone does him "wrong", it is no different than a rock falling on his toe. It is meaningless for the naturalist to argue what "ought" or "ought not" be done to him, for he knows there is no obligation for the other party other than the obligation to survive or not be caught. The naturalist should realise that he can make no "right" or "wrong" judgements on anyone for any action. For without an objective standard, who is to say what is "right" or "wrong"? 
@@ -60,8 +67,6 @@ The naturalist should realise that whenever someone does him "wrong", it is no d
 >Richard Dawkins
 
 The problem with naturalism, ironically, is that it is unnatural and goes against our experience of morality. Even the naturalist finds it hard to act on his beliefs.
-
-Naturalism itself also looks to be self defeating. For how can our cognitive faculties, being formed by a process of random mutations and natural selection, be relied on to make metaphysically true statements such as "only natural laws and forces operate in the world"? At least the creationist believes that his God given brain is functioning properly, but the naturalist cannot know for sure.
 
 ## Divine Command Theory
 --------------------------------------------------------------------------------
