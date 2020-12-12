@@ -48,6 +48,3 @@ The cause must then be:
 - Timeless
 - Immaterial
 - Powerful
-
-
-

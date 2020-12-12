@@ -37,7 +37,7 @@ The question is, are such values objective or subjective? Is killing innocent ba
 
 <br>
 
-Rather than dealing with each specific example, we should question their origin, whether it is objective or not. It seems that the origin lies with our sense of 'right' and 'wrong' (or **sense of morality**). Experientially, our sense of morality appears to be just as *basic* as our other senses and unless a very plausible *defeater* appears, we are fully rational to believe it.
+Experientially, our sense of morality appears to be just as *basic* as our other senses and unless a very plausible *defeater* appears, we are fully rational to believe it.
 
 ## Is Evolution a Defeater?
 --------------------------------------------------------------------------------
