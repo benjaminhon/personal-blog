@@ -7,13 +7,11 @@
 **Email:** benjaminhon86@gmail.com   
 **Github:** https://github.com/shirecoding
 
-
-
-### Education
-
-National University of Singapore  
-Bachelor of Engineering, Electrical Engineering  
-Second Upper Honors, GPA: 4.38  
+Software engineer with over 9 years of experience.
+- Worked on many multidisciplinary projects ranging from low level embedded hardware programming to high level distributed systems as well as reliable backend applications.
+- Saw a product through from inception to sales
+- Familiar with both front-end and back-end development as well as CI/CD processes
+- Firm advocate for code quality over quantity, functional programming, functional reactive programming and microservices
 
 ### Skills
 
@@ -91,6 +89,12 @@ Second Upper Honors, GPA: 4.38
         <td>The experiment consists of 2 parts (virtual and actual). The virtual part is a game designed in Unity3D where a primate uses a joystick to navigate a maze to release rewards at certain locations while brain signals are being recorded. In the actual part, the monkey is mounted to an actual robot where he navigates an actual maze.</td>
     </tr>
 </table>
+
+### Education
+
+National University of Singapore  
+Bachelor of Engineering, Electrical Engineering  
+Second Upper Honors, GPA: 4.38  
 
 ### Certifications
 
