@@ -25,7 +25,7 @@ We all have a general sense of moral values and duties. Instinctively, we esteem
 
 <br>
 
-The question is, are such values objective or subjective? Is killing innocent babies right for one person and wrong for another? Is rape and murder wrong for all cultures at all times? 
+The question is, are such values objective or subjective? For example, is racism or infanticide inherently wrong or is it merely based on personal or cultural preferences? If objective moral values do not exist, then such concepts are only subjective and illusory.
 
 <br>
 
