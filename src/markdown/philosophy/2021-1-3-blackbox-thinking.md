@@ -12,3 +12,4 @@ tags: [philosophy]
 - Making clear everyone's expectations early avoids disappointment for all parties
 - Be careful who you work for - conduct your due diligence
 - Do not work for an technology driven company run by a businessman - extrapolate to all other disciplines
+- Sleep, exercise and be social - leave your job if it affects your physical/mental health
