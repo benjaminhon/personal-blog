@@ -5,7 +5,6 @@ tags: [philosophy]
 
 ## Collection of Blackbox Thinking Lessons Personally Learnt on The Journey
 
-- Always put God first above all else - Seek first his kingdom and his righteousness
 - Autonomy and ownership is required for keeping oneself motivated and for motivating others
 - Autonomy and ownership is required for the best of works
 - When it comes to important issues, flexibility is not an advantage - it is a trap
