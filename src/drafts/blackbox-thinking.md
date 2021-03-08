@@ -8,7 +8,6 @@ tags: [philosophy]
 
 - When it comes to important issues, flexibility is not an advantage - it is a trap
 - Making clear everyone's expectations early avoids disappointment for all parties
-- Autonomy and ownership preceeds quality and motivation
 - A person who lies once will lie again - the earlier you realize this the better
 - Be careful who you work for - conduct your due diligence
 - Leaders must be experts in their area of leadership
