@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "blog",
   },
+  pathPrefix: "/personal-blog", // hosted on https://benjaminhon.github.io/personal-blog/
   plugins: [
     'gatsby-plugin-react-helmet',
     {
