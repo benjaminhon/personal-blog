@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{S65s:function(e,a,n){"use strict";n.r(a),n.d(a,"query",(function(){return c}));var t=n("q1tI"),r=n.n(t),u=n("L12J"),l=n("R9O1");a.default=function(e){var a=e.data;return r.a.createElement(u.a,null,r.a.createElement("h3",null,"ON MUSIC"),r.a.createElement(l.a,{edges:a.allMarkdownRemark.edges}))};var c="3980538329"}}]);
+//# sourceMappingURL=component---src-pages-music-jsx-b2c8ea5cab58edd5f76a.js.map

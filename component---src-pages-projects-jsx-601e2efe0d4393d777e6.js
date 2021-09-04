@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{hoZb:function(e,a,n){"use strict";n.r(a),n.d(a,"query",(function(){return c}));var t=n("q1tI"),r=n.n(t),u=n("L12J"),l=n("R9O1");a.default=function(e){var a=e.data;return r.a.createElement(u.a,null,r.a.createElement("h3",null,"ON PROJECTS"),r.a.createElement(l.a,{edges:a.allMarkdownRemark.edges}))};var c="1670261886"}}]);
+//# sourceMappingURL=component---src-pages-projects-jsx-601e2efe0d4393d777e6.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{BQ0c:function(e,a,n){"use strict";n.r(a),n.d(a,"query",(function(){return l}));var t=n("q1tI"),r=n.n(t),u=n("L12J"),c=n("R9O1");a.default=function(e){var a=e.data;return r.a.createElement(u.a,null,r.a.createElement("h3",null,"ON PHILOSOPHY"),r.a.createElement(c.a,{edges:a.allMarkdownRemark.edges}))};var l="3001531"}}]);
+//# sourceMappingURL=component---src-pages-philosophy-jsx-1ade4c4418c13ac719e2.js.map
