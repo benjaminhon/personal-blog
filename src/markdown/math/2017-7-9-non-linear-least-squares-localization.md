@@ -124,7 +124,7 @@ def jacobian_w(x, u, y):
     return np.nan_to_num(J)
 ```
 
-This is a more advanced way of selecting weights (see [choosing-weights](/assets/non-linear-least-squares-localization/weighted_least_squares.pdf))
+This is a more advanced way of selecting weights (see [choosing-weights](/personal-blog/assets/non-linear-least-squares-localization/weighted_least_squares.pdf))
 
 <html>
 \begin{align}
@@ -166,4 +166,4 @@ plt.legend(loc="upper left")
 plt.show()
 ```
 
-![png](/assets/non-linear-least-squares-localization/output_7_0.png)
+![png](/personal-blog/assets/non-linear-least-squares-localization/output_7_0.png)

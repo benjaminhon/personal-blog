@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
+import { withPrefix } from "gatsby"
 
 export default () => (
   <Layout>
@@ -9,6 +10,6 @@ export default () => (
 
     <p>I am current a researcher in the National University of Singapore working on indoor positioning and continuous wireless vital signs monitoring.</p>
     
-    <img src="/images/family.jpg" align="middle"></img>
+    <img src={withPrefix("/images/family.jpg")} align="middle"></img>
   </Layout>
 )

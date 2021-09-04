@@ -29,7 +29,7 @@ ax.set_xlabel("time")
 ax.set_ylabel("distance")
 ```
 
-![png](/assets/matplotlib-cheat-sheet/output_2_1.png)
+![png](/personal-blog/assets/matplotlib-cheat-sheet/output_2_1.png)
 
 
 # Error bars
@@ -40,7 +40,7 @@ yerr = np.random.random_integers(-4,4,xs.shape)
 plt.errorbar(xs, xs**2, yerr=yerr)
 ```
 
-![png](/assets/matplotlib-cheat-sheet/output_4_1.png)
+![png](/personal-blog/assets/matplotlib-cheat-sheet/output_4_1.png)
 
 
 # 3D Plots
@@ -57,7 +57,7 @@ t = np.linspace(0, 5*np.pi, 501)
 ax.plot(np.cos(t), np.sin(t), t)
 ```
 
-![png](/assets/matplotlib-cheat-sheet/output_7_1.png)
+![png](/personal-blog/assets/matplotlib-cheat-sheet/output_7_1.png)
 
 
 # Subplots
@@ -74,5 +74,5 @@ plt.subplot(2,2,4)
 plt.plot(xs, xs**4)
 ```
 
-![png](/assets/matplotlib-cheat-sheet/output_9_1.png)
+![png](/personal-blog/assets/matplotlib-cheat-sheet/output_9_1.png)
 

@@ -1,5 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
+import { withPrefix } from "gatsby"
 
 export default class HTML extends React.Component {
   render() {
@@ -15,11 +16,11 @@ export default class HTML extends React.Component {
           {this.props.headComponents}
           
           {/* jquery */}
-          <script type="text/javascript" src="/js/jquery/jquery-1.8.3.min.js"></script>
+          <script type="text/javascript" src={withPrefix("/js/jquery/jquery-1.8.3.min.js")}></script>
 
           {/* bigfoot */}
-          <link rel="stylesheet" type="text/css" href="/js/bigfoot/bigfoot-bottom.css"/>
-          <script type="text/javascript" src="/js/bigfoot/bigfoot.min.js"></script>
+          <link rel="stylesheet" type="text/css" href={withPrefix("/js/bigfoot/bigfoot-bottom.css")}/>
+          <script type="text/javascript" src={withPrefix("/js/bigfoot/bigfoot.min.js")}></script>
 
         </head>
         <body {...this.props.bodyAttributes}>
@@ -32,7 +33,7 @@ export default class HTML extends React.Component {
           {this.props.postBodyComponents}
 
           {/* reftagger */}
-          <script type="text/javascript" src="/js/reftagger/reftagger.js"></script>
+          <script type="text/javascript" src={withPrefix("/js/reftagger/reftagger.js")}></script>
 
           {/* biblia */}
           <script src="//biblia.com/api/logos.biblia.js"></script>
