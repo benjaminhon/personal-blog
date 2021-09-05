@@ -6,7 +6,16 @@ import { graphql } from "gatsby"
 export default ({data}) => (
   <Layout>
     <h3>ON PHILOSOPHY</h3>
-    <PostBlock edges={data.allMarkdownRemark.edges}></PostBlock>
+    <PostBlock edges={data.allMarkdownRemark.edges.filter(
+      ({node}) => node.frontmatter.tags.includes('philosophy')
+    )}></PostBlock>
+
+    <h3>VERSES</h3>
+    <PostBlock edges={
+      data.allMarkdownRemark.edges.filter(
+        ({node}) => node.frontmatter.tags.includes('verses')
+      )
+    }></PostBlock>
   </Layout>
 )
 
@@ -17,7 +26,7 @@ export const query = graphql`
       filter: {
         frontmatter: {
           tags: {
-            in: "philosophy"
+            in: ["philosophy", "verses"]
           }
         } 
       }
